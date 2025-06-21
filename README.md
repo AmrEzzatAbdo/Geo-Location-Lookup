@@ -58,7 +58,7 @@ This project is licensed under the [MIT License].
 
 Developed by **Amr Ezzat**
 
-- LinkedIn: [linkedin.com/in/amr-ezzat](https://www.linkedin.com/in/amr-ezzat/)
+- LinkedIn: [linkedin.com/in/amr-ezzat](https://www.linkedin.com/in/amrezzatabdal-al/)
 - Email: `amrezzat289@gmail.com`
 
 ---
